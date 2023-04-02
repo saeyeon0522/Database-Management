@@ -3,14 +3,14 @@
 
 ***********************************
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fmysql%2Findex.html&psig=AOvVaw1Ob18yNfAtWp4sctlXwAly&ust=1680504773959000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCHjKTOiv4CFQAAAAAdAAAAABAI" width="200">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_horizontal_logo_icon_170929.png" width="200">
 
 
 In this course, students will learn basic theory of the database such as E-R model, database design, normalization, and indexing. Especially, basic and advanced SQL usages will be covered. Students will practice how to use the Oracle database system, which is the dominant database system in the world. 
 
 ***********************************
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datamation.com%2Fbig-data%2Foracle-database-rdbms%2F&psig=AOvVaw1uqDjvqV1zeO1kgChDVKx-&ust=1680504892892000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCM7NzOiv4CFQAAAAAdAAAAABAE" width="300">
+<img src="https://b2750956.smushcdn.com/2750956/wp-content/uploads/2021/06/Oracle-Database-Featured-Image-2-696x464.png?lossy=1&strip=1&webp=1" width="300">
 
 
 The aim of this course for students to learn and practice the database systems.
